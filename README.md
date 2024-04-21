@@ -8,4 +8,4 @@ The objectives of this project include:
 5. Performing correlation analysis to determine statistical relationships between different factors (age, weight, glucose level, etc.) and the risk of cardiovascular diseases.
 6. Visualizing data using box plots, bar graphs, heatmaps, and correlation matrices.
 
-P.S. it is advisable to open this project in the collab because the correlation matrices map is not displayed in github
+P.S. it is advisable to open this project in the collab because the correlation matrix  is not displayed in github
